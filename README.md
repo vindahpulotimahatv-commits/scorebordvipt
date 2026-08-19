@@ -1,0 +1,2 @@
+# scorebordvipt
+scoreboardviptcup
